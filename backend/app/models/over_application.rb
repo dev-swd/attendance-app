@@ -1,0 +1,2 @@
+class OverApplication < ApplicationRecord
+end
